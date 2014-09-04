@@ -8,4 +8,4 @@ The FAQ which has been comitted to this GitHub project can be viewed live at [Bi
 
 ### Support the project
 
-You can support BitSweeper simply by visiting our website and giving it a go. If you wish to make a donation you can send Bitcoin donations to 1DebR2XyHmuKgXM5WKQNbjU9f7xYmBjhqE.
+You can support BitSweeper simply by visiting our website and giving it a go. If you wish to make a donation you can send Bitcoin donations to **1DebR2XyHmuKgXM5WKQNbjU9f7xYmBjhqE**.
